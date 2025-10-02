@@ -7,7 +7,7 @@ export default function Head() {
       <meta property="og:site_name" content="Ujjwal Sachdeva's Portfolio" />
       <meta property="og:title" content="Portfolio | Ujjwal Sachdeva - Full Stack Developer" />
       <meta property="og:description"
-        content="I'm Jigar Sable, full-stack developer based in Pune, India. My journey in web development began during my first year of college." />
+        content="" />
       <meta property="og:url" content="https://jigarsable.vercel.app" />
       <meta property="og:image" content="https://jigarsable.vercel.app/portfolio-fork.png" />
       <link rel="canonical" href="https://jigarsable.vercel.app" />
